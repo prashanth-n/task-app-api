@@ -10,8 +10,8 @@ run npm install
 configs to set
 1. PORT
 
-2.SENDGRID_API_KEY -> to send emails (can be optional, better if email sending part is commented out)
+2. SENDGRID_API_KEY -> to send emails (can be optional, better if email sending part is commented out)
 
-3.JWT_SECRET -> secter for jwt token
+3. JWT_SECRET -> secter for jwt token
 
-MONGO_DEV_DB -> mongodb url
+4. MONGO_DEV_DB -> mongodb url

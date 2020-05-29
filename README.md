@@ -15,3 +15,5 @@ configs to set
 3. JWT_SECRET -> secter for jwt token
 
 4. MONGO_DEV_DB -> mongodb url
+
+PS: trying to build a front end for this using angular/vue

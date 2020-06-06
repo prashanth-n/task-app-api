@@ -19,7 +19,7 @@ const upload = multer({
     }
 })
 // to create a new user
-router.post('/users', async (req, res) => {
+router.post('/users/signup', async (req, res) => {
     console.log(req.body);
     const user = new User(req.body);
     try {
